@@ -1,44 +1,41 @@
-<!DOCTYPE html>
-    <html>
-    <head>
-      <meta charset='utf-8'>
-      <meta name='viewport' content='width=device-width'>
-      <title>Privacy Policy</title>
-      <style> body { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding:1em; } </style>
-    </head>
-    <body>
-    <strong>Privacy Policy</strong> <p>
+
+
+   <p> <strong> Privacy Policy</strong> <p>
                   Qbank bangladesh built the Qbank bangladesh app as
                   a Free app. This SERVICE is provided by
                   Qbank bangladesh at no cost and is intended for use as
                   is.
-                </p> <p>
-                  This page is used to inform visitors regarding our
+    <p> This page is used to inform visitors regarding our
                   policies with the collection, use, and disclosure of Personal
                   Information if anyone decided to use our Service.
-                </p> <p>
-                  If you choose to use our Service, then you agree to
+               </p> 
+    <p>
+            If you choose to use our Service, then you agree to
                   the collection and use of information in relation to this
                   policy. The Personal Information that we collect is
                   used for providing and improving the Service. We will not use or share your information with
                   anyone except as described in this Privacy Policy.
-                </p> <p>
-                  The terms used in this Privacy Policy have the same meanings
-                  as in our Terms and Conditions, which is accessible at
-                  Qbank bangladesh unless otherwise defined in this Privacy Policy.
-                </p> <p><strong>Information Collection and Use</strong></p> <p>
+<p><strong>Information Collection and Use</strong></p> <p>
                   For a better experience, while using our Service, we
                   may require you to provide us with certain personally
                   identifiable information. The information that
                   we request will be retained by us and used as described in this privacy policy.
+    <p>   The app does use third party services that may collect
+                    information used to identify you </p>
+    <p>  Link to privacy policy of third party service providers used
+                    by the app </p>
+    <ul><li><a href="https://www.google.com/policies/privacy/" target="_blank" rel="noopener noreferrer">Google Play Services</a></li><!----><li><a href="https://firebase.google.com/policies/analytics" target="_blank" rel="noopener noreferrer">Google Analytics for Firebase</a></li><li><a href="https://firebase.google.com/support/privacy/" target="_blank" rel="noopener noreferrer">Firebase Crashlytics</a></li></ul></div> 
+    
+    
+                </p> <p>
+                  The terms used in this Privacy Policy have the same meanings
+                  as in our Terms and Conditions, which is accessible at
+                  Qbank bangladesh unless otherwise defined in this Privacy Policy.
+                </p> 
                 </p> <div><p>
-                    The app does use third party services that may collect
-                    information used to identify you.
-                  </p> <p>
-                    Link to privacy policy of third party service providers used
-                    by the app
-                  </p> <ul><li><a href="https://www.google.com/policies/privacy/" target="_blank" rel="noopener noreferrer">Google Play Services</a></li><!----><li><a href="https://firebase.google.com/policies/analytics" target="_blank" rel="noopener noreferrer">Google Analytics for Firebase</a></li><li><a href="https://firebase.google.com/support/privacy/" target="_blank" rel="noopener noreferrer">Firebase Crashlytics</a></li><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----></ul></div> 
-<strong>Permissions taken from user </strong>
+   
+                  
+<p><strong>Permissions taken from user </strong></p>
 <p>
 the permissions we take from users are given below <br>
 1.android.permission.INTERNET <br>
