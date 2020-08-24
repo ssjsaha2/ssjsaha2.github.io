@@ -116,6 +116,35 @@ The camera ,read ,write external storage is needed for the user to upload profil
                   If you have any questions or suggestions about our
                   Privacy Policy, do not hesitate to contact us at questionbanknoreply@gmail.com.
                 </p>
+                
+                
+<p> <strong>
+Terms and Conditions</strong>
+</p>
+
+<p> <strong>
+Limited User
+</strong>
+The User agrees and undertakes not to reverse engineer, modify, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer, or sell any information or software obtained from the mobile app. For the removal of doubt, it is clarified that reproduction, copying of the content for commercial or non-commercial purposes and unwarranted modification of data and information within the content of the mobile app is not permitted.</p>
+
+<p><strong>
+User Account, Password, and Security </strong>
+You will receive an OTP (One Time Password) in your mobile upon completing the App's registration process. You shall be responsible for maintaining the confidentiality of your account & its OTP as well as all the transactions/requests done/received under your account. You agree to immediately notify us of any unauthorized use of your account or any other breach of security. QBank Bangladesh shall not be liable for any loss or damage arising from your failure to comply with the T&C. </p>
+
+<p> <strong>
+User Conduct and Rules</strong>
+
+Defame, abuse, harass, stalk, threaten or otherwise violate the legal rights of others
+Publish, upload any inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topic, name, material or information
+Upload files that contain software or other material protected by intellectual property laws unless you own or control the rights thereto or have received all necessary consents; you own or control the rights thereto or have received all necessary consents
+Upload or distribute files that contain viruses, corrupted files, or any other similar software or programs that may damage the operation of the Website or another's computer
+Conduct or forward surveys, contests, pyramid schemes or chain letters
+Download any file posted by another user of a Service that you know, or reasonably should know, cannot be legally distributed in such manner
+Falsify or delete any author attributions, legal or other proper notices or proprietary designations or labels of the origin or source of software or other material contained in a file that is uploaded
+Violate any code of conduct or other guidelines, which may be applicable for or to any particular Service
+Violate any applicable laws or regulations for the time being in force in or outside India; and
+Violate abuse, unethically manipulate or exploit any of the terms and conditions of this Agreement or any other terms and conditions for the use of the Website contained elsewhere.</p>
+                
     </body>
     </html>
       
