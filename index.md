@@ -4,7 +4,7 @@
    <p> <strong> Privacy Policy</strong> <p>
                   Qbank bangladesh built the Qbank bangladesh app as
                   a Free app. This SERVICE is provided by
-                  Qbank bangladesh at no cost and is intended for use as
+                  Qbank bangladesh is intended for use as
                   is.
     <p> This page is used to inform visitors regarding our
                   policies with the collection, use, and disclosure of Personal
